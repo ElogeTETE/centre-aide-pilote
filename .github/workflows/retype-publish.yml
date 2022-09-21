@@ -2,7 +2,7 @@ name: Publish Retype powered website to GitHub Pages
 on:
   workflow_dispatch:
   push:
-    branches: [prod, dev]
+    branches: [prod, pre-prod]
 
 jobs:
   publish:
