@@ -38,7 +38,7 @@ jobs:
 
   deploy_SSH:
     needs: [publish, test_SSH]
-    if: ${{github.ref_name}} == 'pre-prod'
+    if: github.ref == 'refs/heads/pre-prod'
     environment: ${{github.ref_name}}
     runs-on: ubuntu-latest
     steps:
