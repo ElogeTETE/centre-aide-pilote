@@ -1,7 +1,7 @@
 name: "Build and deploy"
 on:
   push:
-    branches: dev
+    branches: pre-prod
 
 jobs:
   test_SSH:
