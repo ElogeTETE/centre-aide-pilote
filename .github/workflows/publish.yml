@@ -1,9 +1,10 @@
 name: "Build and deploy"
 on:
   push:
-    branches: [main, pre-prod]
+    branches: [prod, pre-prod]
 
 jobs:
+
   test_SSH:
     environment: ${{github.ref_name}}
     runs-on: ubuntu-latest
@@ -36,6 +37,7 @@ jobs:
 
   deploy_SSH:
     needs: [publish, test_SSH]
+    if: ${{github.ref_name}} == 'pre-prod'
     environment: ${{github.ref_name}}
     runs-on: ubuntu-latest
     steps:
