@@ -8,14 +8,15 @@ categories:
   - proPilot
 ---
 
-# Imports
+#  Importer des données quantitatives
 
-Guide des imports massifs sur proPilot.
-
-
-## Vous souhaitez vérifier la mise à jour d'une série de données sur votre indicateur ou votre réforme ? 
-
+Guide de l'import de données sur proPilot 2/2
 (_Temps de lecture : 2 min_)
+*  Vérifier la mise à jour d'une série de données de votre indicateur ou de votre réforme 
+*  Connaître la liste d'erreurs à ne pas commettre
+
+
+### Périmètre de la mise à jour
 
 Assurez-vous d'avoir d'abord suivi la procédure décrite ici : [Réaliser un import massif - pas à pas](/fr/article/realiser-un-import-massif-pas-a-pas-rdr738/)
 
@@ -25,9 +26,9 @@ _Nous traiterons ici des imports massifs de type Financials -indicateurs-, afin 
 * Mis à jour des valeurs actuelles pour plusieurs départements à la fois
 * Mis à jour des valeurs actuelles ou des valeurs cibles sur l'ensemble des départements pour une réforme
 
-### Tout d'abord, la liste d'erreurs à ne pas commettre : 
+### Check-list : 
 
-* Il faut utiliser strictement le template fourni par l'outil proPilot pour réaliser cet import et respecter l'ordre des colonnes : 
+* Utiliser strictement le template fourni par l'outil proPilot pour réaliser cet import et respecter l'ordre des colonnes : 
 
 ![structure des colonnes du fichier d'import](https://storage.crisp.chat/users/helpdesk/website/1142b705eb802000/templateimportsfaqpng_1jhpg8r.png)
 
@@ -53,21 +54,3 @@ Au moment de réaliser l'import : faire attention à **ne pas utiliser un fichie
 
 
 ![Attention à la liste déroulante sous la colonne "cible"](https://storage.crisp.chat/users/helpdesk/website/1142b705eb802000/image_1gvxwul.png)
-
-### FAQ : 
-
-[!badge variant="dark" icon="dot-fill" text="Question 1" margin="0 8 0 0"]
-* _Faut-il garder toutes les colonnes correspondant aux dates/mois dans le template_ ?
-Pas nécessairement, ne gardez que les colonnes que vous voulez mettre à jour afin d’éviter toute incohérence dans les imports.
-
-[!badge variant="dark" icon="dot-fill" text="Question 2" margin="0 8 0 0"]
-* _Puis-je laisser des cellules vides dans mon fichier_ ?
-Absolument, pour les imports massifs de type "financials" : les cellules vides n’écrasent pas les contenus existants 
-
-[!badge variant="dark" icon="dot-fill" text="Question 3" margin="0 8 0 0"]
-* _Puis-je n'importer que des valeurs actuelles dans mon fichier d'import_ ?
-Non, il est également possible d'importer des cibles territorialisées ou des valeurs initiales.
-
-[!badge variant="dark" icon="dot-fill" text="Question 4" margin="0 8 0 0"]
-* _Les décimales de mes valeurs doivent-elles être exprimées en virgules ou en points_ ?
-Elles doivent être exprimées en virgules de préférence
