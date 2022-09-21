@@ -7,6 +7,7 @@ jobs:
 
   test_SSH:
     environment: ${{github.ref_name}}
+    if: ${{github.ref_name}} == 'pre-prod'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository code
