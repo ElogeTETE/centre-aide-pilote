@@ -1,7 +1,7 @@
 name: "Build and deploy"
 on:
   push:
-    branches: pre-prod
+    branches: [prod, pre-prod]
 
 jobs:
 
