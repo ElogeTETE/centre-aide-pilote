@@ -18,5 +18,5 @@ De son côté, proPilot est l’outil de saisie des données, des indicateurs et
 -	Créer les projets structurants et saisir les données d’avancement ;
 -	Saisir les commentaires locaux des réformes prioritaires pour expliquer et illustrer les conditions de déploiement pour chaque territoire.
 
-
+<iframe src="https://video.finances.gouv.fr/watch/player/player/pubkey/0784da77311561a71a0a/id/9e5778d514f01101523ef1fa519ec2/viewcode/default?buttons_to_show=.btn-mail .btn-info .btn-chapters .btn-cc .btn-languages .btn-help .btn-play-pause .btn-rewind15 .btn-previous-program .btn-previous-chapter .btn-next-chapter .btn-next-program .btn-volume .btn-fullscreen" allowfullscreen="allowfullscreen"></iframe>
 
