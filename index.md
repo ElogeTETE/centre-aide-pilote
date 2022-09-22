@@ -1,4 +1,4 @@
-:icon: home
+:icon-home:
 # Bienvenue dans le centre d'aide de PILOTE
 
 :compass: Toutes les ressources pour comprendre le pilotage des politiques prioritaires du Gouvernement et le fonctionnement de l'outil PILOTE
