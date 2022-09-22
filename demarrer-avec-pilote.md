@@ -1,3 +1,0 @@
-# test
-## Démarrer avec PILOTE
-
