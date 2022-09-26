@@ -41,6 +41,22 @@ jobs:
           branch: ${{ env.DEPLOY_BRANCH }}
           update-branch: true
 
+  publish-gh-pages:
+    name: Publish prod to gh-pages branch
+
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/prod'
+    steps:
+      - name: Check-out code
+        uses: actions/checkout@v3
+      - name: Build dist
+        uses: retypeapp/action-build@latest
+      - name: Update deployment branch
+        uses: retypeapp/action-github-pages@latest
+        with:
+          branch: gh-pages
+          update-branch: true
+
   deploy_SSH:
     needs: [publish, test_SSH]
     environment: deployment-server
