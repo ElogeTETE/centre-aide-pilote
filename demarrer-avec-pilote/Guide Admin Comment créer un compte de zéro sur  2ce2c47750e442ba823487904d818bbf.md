@@ -21,11 +21,12 @@ Afin de renseigner un dossier complet, les informations suivantes sont à fourni
 
 Le processus de création de compte s’effectue dans l’onglet “**Gestion des profils**” du logiciel PILOTE, accessible aux profils ayant un droit d’administrateur. 
 
-![Untitled](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Untitled.png)
+![Photo 1](https://user-images.githubusercontent.com/126496745/221843574-e64037cf-ae06-4cb1-8d8e-b9b14b2bf282.png)
 
 Une fois sur cette page, veuillez cliquer sur “**Ajouter un utilisateur**” pour obtenir le formulaire d’inscription.
 
-![Photo 2.png](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Photo_2.png)
+![Photo 2](https://user-images.githubusercontent.com/126496745/221843293-6d422ae5-c97c-4ccb-a92c-60e8e1771284.png)
+
 
 ### Étape 2 : Renseigner les informations de l’utilisateur sur le formulaire.
 
@@ -36,14 +37,15 @@ Sur la base des prérequis énoncés précédemment, veuillez remplir les donné
 
 </aside>
 
-![Photo 3.png](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Photo_3.png)
+![Photo 3](https://user-images.githubusercontent.com/126496745/221843650-925a44ec-4dcb-4aab-ae9c-c9d91c45ae6c.png)
 
 ---
 
 - 📄 **Voici un exemple de page complétée. L’utilisateur en question appartient à un service déconcentré et possède des spécificités sur son périmètre de travail.**
     
-    ![Photo 4.png](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Photo_4.png)
     
+    ![Photo 4](https://user-images.githubusercontent.com/126496745/221843793-b5106b15-d4ef-42ac-a562-926d68789fd7.png)
+
 
 ### É**tape 3 : Valider les attributions des droits utilisateurs.**
 
@@ -55,7 +57,8 @@ La page “**Modifier ou valider les attributions**” vous permet de moduler **
     
     - **Exemple de page d’accueil avec accès national**
     
-    ![Untitled](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Untitled%201.png)
+    ![Image 4 - Vue Nationale](https://user-images.githubusercontent.com/126496745/221843916-e2b4f00a-0cb4-41c7-90b5-8773858bdd24.png)
+
     
     - **Exemple de page chantier avec un accès national**
     
@@ -77,18 +80,18 @@ La page “**Modifier ou valider les attributions**” vous permet de moduler **
 
 - ✅ **Exemple de page remplie (accordée à l’exemple précédent d’un employé appartenant à un service déconcentré avec des droits spécifiques).**
     
-    ![Photo 6.png](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Photo_6.png)
-    
+    ![Photo 5](https://user-images.githubusercontent.com/126496745/221844548-5568b594-bc06-4855-a715-39e43ad33795.png)
+
 
 ### Étape 4 : Envoyer la demande et confirmer la création du compte
 
  
+![6](https://user-images.githubusercontent.com/126496745/221843989-e73bf9b4-fc19-4754-ac29-bba516f8f150.png)
 
-![Untitled](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Untitled%202.png)
 
 En cliquant sur “**Valider**” en bas à droite, vous finalisez ainsi la création du compte. Une page de confirmation apparaît alors. 
 
-![Untitled](Guide%20Admin%20Comment%20cre%CC%81er%20un%20compte%20de%20ze%CC%81ro%20sur%20%202ce2c47750e442ba823487904d818bbf/Untitled%203.png)
+![7](https://user-images.githubusercontent.com/126496745/221844187-d0227992-5202-496b-93fd-2c710c29227e.png)
 
 Dès lors, une demande de création de mot de passe sera automatiquement envoyée au mail de l’utilisateur indiqué, afin de finaliser la création du compte. 
 
