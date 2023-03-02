@@ -4,19 +4,19 @@ Une fois validé sur Démarches Simplifiées, un indicateur intègre la base de 
 
 [https://metatest.societenumerique.gouv.fr/dashboard/8-ds-indic-insights](https://metatest.societenumerique.gouv.fr/dashboard/8-ds-indic-insights).
 
-<aside>
-💡 Il est possible de consulter chaque graphique à taille réelle dans sa page source en cliquant sur la flèche “**Original**” en haut à droite de ces derniers, ou via l’URL du Dashboard présenté ci-dessus.
 
-- **Exemple**
+
+> 💡 Il est possible de consulter chaque graphique à taille réelle dans sa page source en cliquant sur la flèche “**Original**” en haut à droite de ces derniers, ou via l’URL du Dashboard présenté ci-dessus.
+
+&nbsp;
+
+**Bouton "Original"**  
     
-    
-    ![Untitled](Guide%20des%20graphiques%20repre%CC%81sentant%20les%20indicateurs%20e1aa7e4a6a7a4f8ab91ce0ea44d50e17/Untitled.png)
-    
-    - **Résultat :**
-    
-    ![Untitled](Guide%20des%20graphiques%20repre%CC%81sentant%20les%20indicateurs%20e1aa7e4a6a7a4f8ab91ce0ea44d50e17/Untitled%201.png)
-    
-</aside>
+![Graphique 1](https://user-images.githubusercontent.com/126496745/222474829-b5d8c09a-b670-46f7-af96-05b6ac59e1b6.png)
+
+&nbsp;
+
+&nbsp;
 
 # Description de chaque graphique
 
