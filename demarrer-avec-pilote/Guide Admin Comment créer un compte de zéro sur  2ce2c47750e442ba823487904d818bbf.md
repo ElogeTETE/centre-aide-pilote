@@ -39,8 +39,7 @@ Une fois sur cette page, veuillez cliquer sur “**Ajouter un utilisateur**” p
 ### Étape 2 : Renseigner les informations de l’utilisateur sur le formulaire.
 
 Sur la base des prérequis énoncés précédemment, veuillez remplir les données d’identification, le profil et les précisions (Ministère, chantier, maille départementale) de l’utilisateur. 
-
-&nbsp;
+![Photo 2 5](https://user-images.githubusercontent.com/126496745/222458224-bdf4bc16-072c-450b-886c-28f6bc2a95e2.png)
 
 &nbsp;
 &nbsp;
@@ -60,28 +59,33 @@ Pour chaque type de droit, veuillez vous référer au guide des profils et gesti
 
 &nbsp;
 
+<details>
+<summary>Les droits de visualisation</summary>
+<br>
+ Ils correspondent à ce que voient les utilisateurs sur la page de l’outil PILOTE. Ceux-ci sont divisés en deux sections : la page d’accueil présentant un panorama des taux d’avancement à l’échelle sélectionnée, ainsi que les pages chantiers propres à chacun des chantiers des politiques prioritaires du gouvernement. </details>
 
-- **Les droits de visualisation**
     
-    Ils correspondent à ce que voient les utilisateurs sur la page de l’outil PILOTE. Ceux-ci sont divisés en deux sections : la **page d’accueil** présentant un panorama des taux d’avancement à l’échelle sélectionnée, ainsi que les **pages chantiers** propres à chacun des chantiers des politiques prioritaires du gouvernement. 
-    
-    &nbsp;
+   
+  <details>
+<summary>Les droits de saisie</summary>
+<br>
+  Ils correspondent aux autorisations de saisie des données qualitatives ,(météo et commentaires pour les différents chantiers) et des données quantitatives (import de données pour les indicateurs). </details>
 
-- **Les droits de saisie**
-    
-    Ils correspondent aux autorisations de saisie des **données qualitatives** (météo et commentaires pour les différents chantiers) et des **données quantitatives** (import de données pour les indicateurs). 
-    
-&nbsp;
   
 
-- **Les droits de création/modification des profils**
-    
+<details>
+<summary>Les droits de création/modification des profils</summary>
+<br>
     Ils correspondent à l’attribution des droits administrateurs sur l’outil PILOTE 2, permettant de créer un nouveau profil ou de modifier un profil existant (coordonnées et attributions).
+</details>
     
+
 &nbsp;
+
 
 ✅ **Exemple de page remplie**
 
+![Photo 5](https://user-images.githubusercontent.com/126496745/222461734-f15a653e-51b7-4511-90b8-f7dc6e174bdf.png)
 
 &nbsp;
 
@@ -109,8 +113,7 @@ Dès lors, une demande de création de mot de passe sera automatiquement envoyé
 
 ### É**tape 5 : Prévenir l’utilisateur que le compte a été inscrit**
 
+&nbsp;
 
 Une fois la demande de création de compte validée, vous pouvez prévenir le demandeur de la confirmation de la requête et de la réception prochaine du mail de création de mot de passe. Il est pertinent de mentionner que ce dernier se retrouve parfois dans le dossier “spam” (ou courriers indésirables). 
 
-
-- Voici un exemple de mail standardisé utilisé par la DITP :
