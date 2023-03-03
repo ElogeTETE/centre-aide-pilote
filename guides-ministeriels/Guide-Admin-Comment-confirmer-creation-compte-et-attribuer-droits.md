@@ -1,3 +1,7 @@
+---
+title: Titre court
+---
+
 # Guide Admin - Comment confirmer la création d’un compte PILOTE 2 et attribuer les droits de gestion.
 
 <aside>
