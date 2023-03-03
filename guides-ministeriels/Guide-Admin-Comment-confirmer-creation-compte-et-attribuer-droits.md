@@ -50,9 +50,10 @@ Cliquez ensuite sur “**Continuer**” en bas à droite.
 &nbsp;
 ### Étape 3 : Comment choisir les droits d’accès utilisateurs ?
 
-&nbsp;
 
 La page “**Modifier ou valider les attributions**” vous permet de moduler **trois types** d’accès pour les utilisateurs. Pour chaque type de droit, veuillez vous référer au guide des profils et gestion des droits ci-dessous afin de déterminer les attributions (Définition des profils V2).
+
+&nbsp;
 
 <details>
 <summary>Les droits de visualisation</summary>
@@ -73,7 +74,7 @@ La page “**Modifier ou valider les attributions**” vous permet de moduler **
 <br>
     Ils correspondent à l’attribution des droits administrateurs sur l’outil PILOTE 2, permettant de créer un nouveau profil ou de modifier un profil existant (coordonnées et attributions).
 </details>
-    
+
 &nbsp;
 
 > 📄 Guide de gestion des attributions
@@ -82,10 +83,8 @@ La page “**Modifier ou valider les attributions**” vous permet de moduler **
 
 &nbsp;
 
+
 - **Exemple de page remplie pour un utilisateur appartenant à un service déconcentré**
-
-
-&nbsp;
 
 ![Photo 5](https://user-images.githubusercontent.com/126496745/222680807-4bc5bd88-f56b-4a79-a700-37bf113f6265.png)
 
